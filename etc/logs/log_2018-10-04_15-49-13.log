@@ -1,0 +1,38 @@
+2018-10-04 15:49:13: <info>  ________  _            ____    ____   _                          
+2018-10-04 15:49:13: <info> |_   __  |(_)          |_   \  /   _| (_)                         
+2018-10-04 15:49:13: <info>   | |_ \_|__   _ .--.    |   \/   |   __   _ .--.  .---.  _ .--.  
+2018-10-04 15:49:13: <info>   |  _|  [  | [ `.-. |   | |\  /| |  [  | [ `.-. |/ /__\\[ `/'`\] 
+2018-10-04 15:49:13: <info>  _| |_    | |  | | | |  _| |_\/_| |_  | |  | | | || \__., | |     
+2018-10-04 15:49:13: <info> |_____|  [___][___||__]|_____||_____|[___][___||__]'.__.'[___]    
+2018-10-04 15:49:13: <info> 
+
+2018-10-04 15:49:13: <info> (c) Finom AG
+
+2018-10-04 15:49:13: <info> Version 2.2.5
+2018-10-04 15:49:13: <info> CUDA driver version is 9.1, runtime version is 8.0
+2018-10-04 15:49:14: <info> Single device detected
+2018-10-04 15:49:14: <info> GPU 0 PCI 01:0.0, Platform: CUDA, Name: GeForce GTX 1070, 8192 MB available
+2018-10-04 15:49:14: <info> Started EthMan server on port 3333 without a password (read-only mode).
+2018-10-04 15:49:16: <info> Algorithm: Ethash, currency: Ethereum
+2018-10-04 15:49:16: <info> Wallet: 0xcf57d6328f36f4a48ff2e22cc17ecd8044bd526b
+2018-10-04 15:49:16: <info> Rig name: Sleepy_de19deea
+2018-10-04 15:49:16: <info> Email was not set.
+2018-10-04 15:49:16: <info> Log directory: logs/
+2018-10-04 15:49:16: <info> Log is written to file
+2018-10-04 15:49:16: <info> Never calling reboot.bat, just restarting the miner in case errors happen. 
+2018-10-04 15:49:16: <info> Hashrate threshold to restart miner is not set
+2018-10-04 15:49:16: <info> GPU watchdog is enabled
+2018-10-04 15:49:16: <info> Added pool: eth-eu1.nanopool.org:9999
+2018-10-04 15:49:16: <info> Added pool: eth-eu2.nanopool.org:9999
+2018-10-04 15:49:16: <info> Added pool: eth-us-east1.nanopool.org:9999
+2018-10-04 15:49:16: <info> Added pool: eth-us-west1.nanopool.org:9999
+2018-10-04 15:49:16: <info> Added pool: eth-asia1.nanopool.org:9999
+2018-10-04 15:49:16: <info> Added pool: eth-jp1.nanopool.org:9999
+2018-10-04 15:49:16: <info> Added pool: eth-au1.nanopool.org:9999
+2018-10-04 15:49:16: <info> Using all devices
+2018-10-04 15:49:16: <info> Setting up algorithm: Ethash
+2018-10-04 15:49:21: <info> Connecting to pools...
+2018-10-04 15:49:22: <info> Connected to pool: eth-eu1.nanopool.org:9999 | ping: 54 ms.
+2018-10-04 15:49:22: <info> New job from eth-eu1.nanopool.org:9999 | share difficulty = 10000 MH, epoch 215 (2743 MB)
+2018-10-04 15:49:22: [Statistics] Ethereum - Total speed: 0.000 H/s, Total shares: 0 Rejected: 0, Time: 00:05
+2018-10-04 15:49:22: [Statistics] GPU0 t=39°C fan 27% power 32.73W. Total power: 32.73W
